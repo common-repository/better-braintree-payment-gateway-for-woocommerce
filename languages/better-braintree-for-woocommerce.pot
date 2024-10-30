@@ -1,0 +1,132 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Better Braintree for WooCommerce (Lite)\n"
+"POT-Creation-Date: 2016-04-23 15:24+0100\n"
+"PO-Revision-Date: 2016-04-23 15:24+0100\n"
+"Last-Translator: Agbonghama Collins <me@w3guy.com>\n"
+"Language-Team: Agbonghama Collins <me@w3guy.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: class.wc-braintree-lite.php:29 class.wc-braintree-lite.php:36
+msgid "Braintree"
+msgstr ""
+
+#: class.wc-braintree-lite.php:32
+msgid "Braintree Payment Gateway for WooCommerce"
+msgstr ""
+
+#: class.wc-braintree-lite.php:71
+msgid "Enable / Disable"
+msgstr ""
+
+#: class.wc-braintree-lite.php:72
+msgid "Enable this payment gateway"
+msgstr ""
+
+#: class.wc-braintree-lite.php:77
+msgid "Braintree Test Mode"
+msgstr ""
+
+#: class.wc-braintree-lite.php:78
+msgid "Enable Test Mode"
+msgstr ""
+
+#: class.wc-braintree-lite.php:80
+#, php-format
+msgid ""
+"Braintree sandbox can be used to test payments. Sign up for an account <a "
+"href=\"%s\">here</a>"
+msgstr ""
+
+#: class.wc-braintree-lite.php:86
+msgid "Title"
+msgstr ""
+
+#: class.wc-braintree-lite.php:88
+msgid "Credit Card"
+msgstr ""
+
+#: class.wc-braintree-lite.php:91
+msgid "Description"
+msgstr ""
+
+#: class.wc-braintree-lite.php:93
+msgid "Pay securely using your credit card."
+msgstr ""
+
+#: class.wc-braintree-lite.php:97
+msgid "Merchant ID"
+msgstr ""
+
+#: class.wc-braintree-lite.php:99
+msgid "Enter your merchant ID."
+msgstr ""
+
+#: class.wc-braintree-lite.php:102
+msgid "Public Key"
+msgstr ""
+
+#: class.wc-braintree-lite.php:104
+msgid "Enter your public key."
+msgstr ""
+
+#: class.wc-braintree-lite.php:107
+msgid "Private Key"
+msgstr ""
+
+#: class.wc-braintree-lite.php:109
+msgid "Enter your private key."
+msgstr ""
+
+#: class.wc-braintree-lite.php:117
+msgid "Settings"
+msgstr ""
+
+#: class.wc-braintree-lite.php:124
+#, php-format
+msgid ""
+"Be PCI compliant with \"Dropin-UI\" and \"Hosted Fields\" checkout style "
+"with and access to support from WooCommerce experts. <strong><a target="
+"\"_blank\" href=\"%s\">Upgrade to PRO Now</a></strong>."
+msgstr ""
+
+#: class.wc-braintree-lite.php:210
+#, php-format
+msgid "Credit card payment via Branintree completed. (Charge ID: %s)"
+msgstr ""
+
+#: class.wc-braintree-lite.php:222
+msgid "Transaction Failed. %s (%)"
+msgstr ""
+
+#: class.wc-braintree-lite.php:247
+msgid "Unexpected error. Please try again."
+msgstr ""
+
+#: class.wc-braintree-lite.php:272
+msgid "credit card number"
+msgstr ""
+
+#: class.wc-braintree-lite.php:273
+msgid "card expiration date"
+msgstr ""
+
+#: class.wc-braintree-lite.php:274
+msgid "card security code"
+msgstr ""
+
+#: class.wc-braintree-lite.php:279
+#, php-format
+msgid "You must enter a valid %s."
+msgstr ""
